@@ -1,4 +1,3 @@
-`
 # fixcode
 ## Case: 1
 * For `testPersonEquals(Person a, Person b)` method,
